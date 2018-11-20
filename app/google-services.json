@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "247781456725",
+    "firebase_url": "https://lightsybot-2abad.firebaseio.com",
+    "project_id": "lightsybot-2abad",
+    "storage_bucket": "lightsybot-2abad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247781456725:android:4d4b53dd7d67f227",
+        "android_client_info": {
+          "package_name": "lightsybot.manishtuladhar.com.lightsybot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247781456725-q709pcu35fas3ir13k3tj0rms3f71lot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMKBDYP-M3_ffjyLjTwPx5s_BxfWjzy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247781456725:android:58409ee74ca16fa5",
+        "android_client_info": {
+          "package_name": "lightsybot.manishtuladhar.com.np.lightsybot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247781456725-q709pcu35fas3ir13k3tj0rms3f71lot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMKBDYP-M3_ffjyLjTwPx5s_BxfWjzy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
